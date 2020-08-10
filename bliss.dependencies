@@ -1,0 +1,20 @@
+[
+  {
+    "remote": "github",
+    "repository": "BlissRoms-Devices/android_device_xiaomi_sm6150-common",
+    "target_path": "device/xiaomi/sm6150-common",
+    "revision": "q"
+  },
+  {
+    "remote": "github",
+    "repository": "GZR-Kernels/Optimus_Drunk_Phoenix",
+    "target_path": "kernel/xiaomi/sm6150",
+    "revision": "10.0"
+  },
+  {
+    "remote": "github",
+    "repository": "BlissRoms-Devices/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "revision": "q"
+  }
+]
