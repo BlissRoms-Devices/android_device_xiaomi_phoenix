@@ -16,5 +16,11 @@
     "repository": "BlissRoms-Devices/proprietary_vendor_xiaomi",
     "target_path": "vendor/xiaomi",
     "revision": "q"
+  },
+  {
+    "remote": "github",
+    "repository": "crdroidandroid/android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "revision": "10.0"
   }
 ]
